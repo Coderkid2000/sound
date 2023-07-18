@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(0, 255, 255);
+    border: 2cm;
+    border-style: ridge;
+    border-color: rgb(204, 33, 33);
+}
+
+.header_div
+{
+    font-family: 'Shadows Into Light', cursive;
+    background: white;
+    color: color(srgb rgb(172, 44, 44) rgb(92, 190, 92) rgb(48, 48, 207));
+}
+
+.header_div p{
+    font-family: 'Tilt Prism', cursive;
+    color: blue;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Tilt Prism', cursive;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.copy_right_footer{
+    font-size: 50px;
+    font-family: 'Shadows Into Light', cursive;
+position: fixed;
+bottom: 0;
+color: rgb(0, 255, 85);
+border: 100cm;
+border-color: rgb(125, 194, 255);
+text-shadow: 6px 6px 1px rgba(rgb(255, 145, 145), rgb(29,rgb(0, 0, 255), 29), blue, alpha);
+}
